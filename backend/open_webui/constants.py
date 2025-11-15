@@ -66,7 +66,7 @@ class ERROR_MESSAGES(str, Enum):
     API_KEY_NOT_FOUND = "Oops! It looks like there's a hiccup. The API key is missing. Please make sure to provide a valid API key to access this feature."
     API_KEY_NOT_ALLOWED = "Use of API key is not enabled in the environment."
 
-    MALICIOUS = "Dont fuck with the websight or the website might fuck with you."
+    MALICIOUS = "Dont fuck with the website or the website might fuck with you."
 
     PANDOC_NOT_INSTALLED = "Pandoc is not installed on the server. Please contact your administrator for assistance."
     INCORRECT_FORMAT = (
